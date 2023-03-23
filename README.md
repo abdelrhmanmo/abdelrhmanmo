@@ -7,7 +7,10 @@
 ### Technical Concepts
 
 ![ASP.Net MVC](https://img.shields.io/badge/-ASP.NET%20MVC-5C2D91?style=flat&logo=.net&logoColor=white)
-
+![OOP](https://img.shields.io/badge/-OOP-239120?style=flat&logoColor=white)
+![Data Structure](https://img.shields.io/badge/-Data%20Structures-008000?style=flat&logoColor=white)
+![Database Design](https://img.shields.io/badge/-Database%20Design-000080?style=flat&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-FFA500?style=flat&logoColor=white)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
