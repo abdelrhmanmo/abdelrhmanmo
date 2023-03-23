@@ -2,7 +2,7 @@
 :computer: _ASP.Net Backend Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/abdelrhman-mohamed-/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](abdelrhmanmo1420@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
 
 ### My Tech Stack
 
