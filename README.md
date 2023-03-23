@@ -4,9 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/abdelrhman-mohamed-/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrhmanmo1420@gmail.com)](mailto:abdelrhmanmo1420@gmail.com)
 
-### Technical Concepts
+### Technical
 
 ![ASP.Net MVC](https://img.shields.io/badge/-ASP.NET%20MVC-5C2D91?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-239120?style=flat&logoColor=white)
 ![Data Structure](https://img.shields.io/badge/-Data%20Structures-008000?style=flat&logoColor=white)
 ![Database Design](https://img.shields.io/badge/-Database%20Design-000080?style=flat&logoColor=white)
