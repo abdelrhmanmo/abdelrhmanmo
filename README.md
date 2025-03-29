@@ -1,33 +1,44 @@
-## :man_technologist: Hi I'm Abdelrahman Mohamed
-:computer: _ASP.Net Backend Developer
+# 👋 Hi, I'm Abdelrhman Abdelsalam
+### 🛠️ Software Tester | ISTQB-FL Certified | Passionate About Quality Assurance  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/abdelrhman-mohamed-/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrhmanmo1420@gmail.com)](mailto:abdelrhmanmo1420@gmail.com)
-
-### Technical
-
-![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
-![ASP.Net MVC](https://img.shields.io/badge/-ASP.NET%20MVC-5C2D91?style=flat&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
-![RESTful API](https://img.shields.io/badge/-RESTful%20API-009688?style=flat&logo=rest&logoColor=white)
-![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![Database Design](https://img.shields.io/badge/-Database%20Design-000080?style=flat&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-239120?style=flat&logoColor=white)
-![Data Structure](https://img.shields.io/badge/-Data%20Structures-008000?style=flat&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-FFA500?style=flat&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-##### Languages I use
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+🔍 **Manual Software Tester** with a keen eye for detail and a drive for delivering high-quality software.  
+💡 **Knowledgeable in Automation Testing** (Selenium, JMeter, RestAssured) and eager to gain hands-on experience.  
+🚀 Always learning and exploring new testing methodologies and tools.  
 
 ---
-⭐️ From [Gaboso](https://github.com/Gaboso)
+
+## 🔍 **About Me**
+- ✅ **Experienced in Manual Testing**.
+- 🛠️ **Familiar with Automation Tools**: Selenium WebDriver (Java), RestAssured (API Testing), JMeter (Performance Testing).
+- 🔎 Strong understanding of **test case design, bug reporting, and test execution**.
+- 📖 Currently **learning performance testing** to enhance my skills in performance analysis and load testing.
+  
+---
+
+## ⚡ **Skills & Tools**
+| Category | Tools & Technologies |
+|----------|----------------------|
+| 🖥️ **Manual Testing** | Functional, UI, Regression, Exploratory |
+| 📝 **Test Management** | JIRA |
+| 🔍 **API Testing** | Postman, RestAssured (Basic) |
+| 🌐 **Automation Knowledge** | Selenium WebDriver (Java), TestNG |
+| 📊 **Performance Testing** | JMeter (Basic) |
+| 🔧 **Version Control** | Git, GitHub |
+
+---
+
+## 🚀 **Currently Exploring**
+- Writing **Selenium automation scripts** to automate test cases.
+- Enhancing **API automation** with **RestAssured**.
+- Running performance tests using **JMeter**.
+
+---
+
+## 📫 **Let's Connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdelrhman-mohamed-/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/abdelrhmanmo)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:AbdelrhmanMo1420@gmail.com)  
+
+---
+
+💡 **"Quality is never an accident; it is always the result of intelligent effort."**  
